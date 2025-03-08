@@ -1,7 +1,5 @@
-<svg width="100%" height="50">
-  <line x1="0" y1="15" x2="1000" y2="15" stroke="#830513" stroke-width="2"/>
-  <line x1="0" y1="25" x2="1000" y2="25" stroke="#830513" stroke-width="2"/>
-</svg>
+![Minha Linha SVG](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/imagem.svg)
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
