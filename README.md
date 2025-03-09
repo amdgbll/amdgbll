@@ -5,8 +5,8 @@
 </div>
 
 
-<p> **`Data Science Student`**
-</p>
+<p><strong>Data Science Student</strong></p>
+
 Meu nome é Amanda Gabrielly, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Antes de entrar no mundo da tecnologia, cursei Arquitetura e Urbanismo por quatro anos e meio, experiência que me ajudou a desenvolver um olhar analítico, pensamento crítico e habilidades de resolução de problemas, todas fundamentais para minha jornada em Ciência de Dados, da qual sou uma grande entusiasta.
 
 <p align="left">
