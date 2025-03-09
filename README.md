@@ -6,7 +6,8 @@
 
 #
 
-**`Data Science Enthushiast`** <br>
+**`Data Science Enthushiast`**  
+
 
 Olá, eu sou a Amanda Gabrielly!  
 
