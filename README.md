@@ -9,21 +9,19 @@
 **`Data Science Enthushiast`**  
 
 
-Olá, eu sou a Amanda Gabrielly!  
-
-Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**. Antes de me aventurar na tecnologia, estudei **Arquitetura e Urbanismo** por quatro anos e meio, experiência que me proporcionou um olhar analítico, pensamento crítico e habilidades de resolução de problemas – todas essenciais na minha jornada em **Ciência de Dados**.  
+Olá, eu sou a Amanda, atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**. Antes de me aventurar na tecnologia, estudei **Arquitetura e Urbanismo** por quatro anos e meio, experiência que me proporcionou um olhar analítico, pensamento crítico e habilidades de resolução de problemas – todas essenciais na minha jornada em **Ciência de Dados**.  
 
 💡 **Entusiasta de Data Science**, sempre explorando novas ferramentas para análise, modelagem e visualização de dados.  
 📊 Apaixonada por transformar dados em **insights valiosos** e construir **soluções inteligentes** baseadas em dados.  
 🚀 Sempre aprendendo e acompanhando as **tendências do mercado** para aprimorar minhas habilidades.  
 
----
+#
 
 # 📫 Conecte-se comigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](#)  
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](#)  
 
----
+#
 
 # 🤖 Linguagens e Tecnologias
 
