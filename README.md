@@ -4,6 +4,8 @@
   </a>
 </div>
 
+![Linha vermelha](https://via.placeholder.com/800x5/FF0000/FF0000)
+
 # <span style="color:830513"></span>
 
 **`Data Science Enthushiast`**
