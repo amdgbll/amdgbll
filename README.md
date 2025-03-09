@@ -7,13 +7,14 @@
 
 **`Data Science Enthushiast`**
 
-Sou estudante de Ciência de Dados e apaixonada por transformar dados em insights valiosos. Antes de mergulhar nesse universo, cursei Arquitetura e Urbanismo por quatro anos e meio, experiência que aprimorou meu olhar analítico, pensamento crítico e habilidades de resolução de problemas – todas essenciais na minha jornada com Data Science.
+Olá, eu sou a Amanda Gabrielly! 👋
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Antes de me aventurar na tecnologia, estudei Arquitetura e Urbanismo por quatro anos e meio, experiência que me proporcionou um olhar analítico, pensamento crítico e habilidades de resolução de problemas – todas essenciais na minha jornada em Ciência de Dados.
 
-💡 Exploro ferramentas para análise, modelagem e visualização de dados.
-📊 Gosto de colocar a mão na massa e desenvolver projetos práticos.
-🚀 Estou sempre aprendendo e acompanhando as tendências do mercado.
+💡 Sou entusiasta de Data Science e estou sempre explorando novas ferramentas para análise, modelagem e visualização de dados.
+📊 Gosto de transformar dados em insights valiosos e construir soluções inteligentes baseadas em dados.
+🚀 Estou constantemente aprendendo e acompanhando as tendências do mercado para aprimorar minhas habilidades.
 
-Seja bem-vindo(a) ao meu repositório! Vamos construir algo incrível com dados! 🚀
+Seja bem-vindo(a) ao meu repositório! Vamos aprender e crescer juntos! 🚀
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
