@@ -8,7 +8,7 @@
 
 **`Data Science Enthushiast`**
 
-# Olá, eu sou a Amanda Gabrielly! 👋  
+Olá, eu sou a Amanda Gabrielly!  
 
 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**. Antes de me aventurar na tecnologia, estudei **Arquitetura e Urbanismo** por quatro anos e meio, experiência que me proporcionou um olhar analítico, pensamento crítico e habilidades de resolução de problemas – todas essenciais na minha jornada em **Ciência de Dados**.  
 
