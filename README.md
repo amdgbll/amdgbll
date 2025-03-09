@@ -17,13 +17,13 @@ Olá, eu sou a Amanda! Atualmente, sou estudante de **Análise e Desenvolvimento
 
 #
 
-# 📫 Conecte-se comigo:  
+# Conecte-se comigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](#)  
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](#)  
 
 #
 
-# 🤖 Linguagens e Tecnologias
+# Linguagens e Tecnologias
 
 <img 
     align="left" 
